@@ -578,7 +578,7 @@ D’une manière générale, augmenter le nombre d’arbres augmentera la
 précision et la fiabilité du modèle. Mais cela augmentera aussi la
 puissance de calcul nécessaire, ce qui peut vite devenir un problème
 pour les ensembles de données conséquents. Dans notre cas nous
-utiliserons *ntree*=400 car c’est un bon compromis pour notre ensemble
+utiliserons *ntree*=500 car c’est un bon compromis pour notre ensemble
 de données. Le nombre de prédicteurs à considérer lors d’un nœud permet
 d’influer sur la quantité d’aléatoire voulue dans une forêt. À chaque
 nœud lors de la construction d’un arbre, *mtry* les prédicteurs sont
