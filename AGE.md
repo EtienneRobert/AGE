@@ -712,7 +712,7 @@ knitr::kable(put_snps)
 | GG_X08pm01378n | 0.4043875 |
 | CC_X08pm10220n | 0.4031076 |
 
-Nous avons donc une liste de 0 génotypes avec un R<sup>2</sup> \> 0.4 et
+Nous avons donc une liste de 12 génotypes avec un R<sup>2</sup> \> 0.4 et
 donc putativement adaptatif.
 
 GF nous fournit aussi la contribution de chaque variable
