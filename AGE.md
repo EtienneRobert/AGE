@@ -742,7 +742,7 @@ knitr::kable(var_imp)
 
 Par exemple, TT est le génotype du SNP c04671m le plus fortement associé
 à l’environnement (R<sup>2</sup> = 0.5274786) et en particulier à la MAP
-et à la FFD (0.3029109 et 0.3029109 respectivement).
+(R<sup>2</sup> = 0.3029109).
 
 ## Relation entre l’environnement et les SNP
 
